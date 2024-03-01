@@ -1,6 +1,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=dark)](https://www.linkedin.com/in/hannan-muzammil-androiddeveloper) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/Facebook-Account-informational?style=for-the-badge&logo=facebook&logoColor=white&color=dark)](https://www.facebook.com/hannan.muzammil?mibextid=ZbWKwL) &nbsp;
 [![LinkedIn](https://img.shields.io/badge/Instagram-Account-informational?style=for-the-badge&logo=instagram&logoColor=white&color=dark)](https://instagram.com/hannan_officall?igshid=MzNlNGNkZWQ4Mg==) &nbsp;
+[![Kaggle](https://img.shields.io/badge/Instagram-Account-informational?style=for-the-badge&logo=instagram&logoColor=white&color=dark)]([https://instagram.com/hannan_officall?igshid=MzNlNGNkZWQ4Mg==](https://www.linkedin.com/in/hannanmuzammil/)) &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/han023?logo=GitHub&style=for-the-badge&color=7fff00)](https://github.com/han023) &nbsp;
 [![GitHub Stars](https://img.shields.io/github/stars/han023?logo=github&style=for-the-badge&color=7fff00)](https://github.com/han023) &nbsp;<br>
 
